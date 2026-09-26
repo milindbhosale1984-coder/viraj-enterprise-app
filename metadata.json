@@ -1,0 +1,6 @@
+{
+  "name": "Pune AI Agent - Punecha Smart Mitra",
+  "description": "पुण्याचा स्मार्ट मित्र - Explore Pune hotels, mandir, hospitals, schools, PMC offices, brand shops, car showrooms & emergency services with AI guide in Marathi & English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
